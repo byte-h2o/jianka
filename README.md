@@ -79,4 +79,5 @@
 4. **操作便捷**：简洁界面，快速上手
 5. **安全可靠**：数据本地存储，隐私保护
 
-<img src="qcode.png" width="200" height="200">
+<img src="qrcode.png" width="300">
+
