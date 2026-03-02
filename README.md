@@ -2,7 +2,7 @@
 # 信用卡管理工具，计算所有卡片总额度、总可用额度、总已用额度。
 # 软件介绍：剪卡
 
-<img src="qrcode.png" width="200">
+<img src="qrcode.png" width="300">
 
 
 ## 产品概述
